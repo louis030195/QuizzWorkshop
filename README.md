@@ -1,5 +1,8 @@
 # QuizzWorkshop
 
+Mobile application made for [Citta](https://www.cittadesign.com/).
+This app aim to offer the customer a range of products corresponding to his tastes
+
 ## Home
 
 ![Alt text](screenshots/1.png?raw=true " Home ")
