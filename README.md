@@ -7,6 +7,8 @@ This app aim to offer the customer a range of products corresponding to his tast
 
 ![Alt text](screenshots/1.png?raw=true " Home ")
 
+Note that for every pages there is multiple questions
+
 ## Questions - images
 
 ![Alt text](screenshots/2.png?raw=true " images ")
