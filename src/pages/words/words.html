@@ -1,0 +1,29 @@
+<!--
+  Generated template for the WordsPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Agree ?</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding id="pageWords">
+    <ion-card class="words">
+      <p id="words">Embrace life to the fullest</p>
+    </ion-card>
+
+    <p id="value" hidden="true">245</p>
+
+    <ion-item>
+      <button ion-button type="submit" block (click)="words(1)">I agree</button>
+    </ion-item>
+    <ion-item>
+      <button ion-button type="submit" block (click)="words(0)">I disagree</button>
+    </ion-item>
+</ion-content>

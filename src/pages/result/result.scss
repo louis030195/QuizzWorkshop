@@ -1,0 +1,39 @@
+.scroll-content {
+  > div {
+    display: flex;
+  }
+
+  p {
+    font-size: 20px;
+    display: inline-block;
+    width: inherit;
+    margin-right: 30px;
+  }
+
+  page-result > .card-md{
+    width: 140px;
+    height: 140px;
+  }
+
+  .image {
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    border: none;
+    min-height: inherit;
+    contain: inherit;
+
+    img {
+      max-width: 100%;
+      height: auto;
+      min-width: 64px;
+    }
+  }
+
+  .resultPercent{
+    flex:1;
+    text-align: right;
+  }
+
+
+}
